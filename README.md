@@ -1,9 +1,9 @@
 **Heart Attack Predictions in the United States**
 
 Group Members:
-Filza Mubarak
-Subhechchha Bhandari
-Theophilus Gabriel
+Filza Mubarak,
+Subhechchha Bhandari,
+Theophilus Gabriel,
 Zahidul Islam Khan
 
 **Project Description:**
